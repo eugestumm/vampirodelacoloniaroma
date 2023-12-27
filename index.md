@@ -12,4 +12,5 @@ Here is a glossary guide on how to read the book "Vampiro de la Colonia Roma", b
 - **menso**: idiot
 
 
+
 ----
