@@ -20,5 +20,7 @@ items:
 ga_tracking: G-V07VL6ELS7
 ga_tracking_anonymize_ip: true #
 
+$link-color: $blue-000;
+
 aux_links:
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
