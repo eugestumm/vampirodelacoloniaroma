@@ -52,4 +52,6 @@ parent: Glossary
 - **“Hacer la vista gorda”:** Pretending to not see something
 - **(no) me late:** (don’t) like it
 
+[Back to Glossary](https://eugestumm.github.io/vampirodelacoloniaroma/docs/Glossary/)
+
 ----

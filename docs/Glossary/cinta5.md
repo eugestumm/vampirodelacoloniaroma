@@ -8,4 +8,8 @@ parent: Glossary
 # Cinta Quinta
 
 
+
+
+[Back to Glossary](https://eugestumm.github.io/vampirodelacoloniaroma/docs/Glossary/)
+
 ----

@@ -8,4 +8,7 @@ parent: Glossary
 # Cinta Tercera
 
 
+
+[Back to Glossary](https://eugestumm.github.io/vampirodelacoloniaroma/docs/Glossary/)
+
 ----

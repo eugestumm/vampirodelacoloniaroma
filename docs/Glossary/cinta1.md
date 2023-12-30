@@ -76,4 +76,6 @@ parent: Glossary
 - **¿Mentiendes?:** Contraction of “¿me entendies?”
 - **“Aqui mis chicharrones truenan”:** ?
 
+[Back to Glossary](https://eugestumm.github.io/vampirodelacoloniaroma/docs/Glossary/)
+
 ----
