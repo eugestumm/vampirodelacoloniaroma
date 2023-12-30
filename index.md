@@ -10,7 +10,7 @@ This project was made as a pedagogical resource to assist undergraduate students
 
 You can search for specific words using the search mechanism available on the top of the webpage. 
 
-Also, you can check the list on specific vocabulary present in each chapter through the [Glossary](/docs/Glossary/)
+Also, you can check the list on specific vocabulary present in each chapter through the [Glossary](https://eugestumm.github.io/vampirodelacoloniaroma/docs/Glossary/)
 
 ----
 
