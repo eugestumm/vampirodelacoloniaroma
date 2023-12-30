@@ -1,7 +1,10 @@
 ---
 title: Glossary
 layout: home
+nav_order: 1
 ---
+
+# Glossary
 
 Here is a glossary guide on how to read the book "Vampiro de la Colonia Roma", by Luis Zapata. 
 
